@@ -9,6 +9,7 @@ import { cn } from "@/lib/utils";
 const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.satvikyog.co.in"),
   title: {
     default: "Satvik Yoga Classes — Find Your Inner Peace",
     template: "%s | Satvik Yoga",
@@ -16,20 +17,24 @@ export const metadata: Metadata = {
   description:
     "Embrace the Sattvic path with expert-led yoga classes. Ashtanga, Hatha, Prenatal, Meditation & more in a serene, welcoming studio. Inquire via WhatsApp today.",
   keywords: [
-    "yoga classes",
-    "satvik yoga",
-    "hatha yoga",
-    "ashtanga yoga",
-    "prenatal yoga",
-    "meditation",
-    "breathwork",
-    "pranayama",
-    "wellness",
+    "best yoga classes in Gurgaon",
+    "yoga classes in Gurgaon",
+    "yoga classes in Gurugram",
+    "best yoga studio in Gurgaon",
+    "yoga studio in Gurgaon",
+    "Satvik Yoga Gurgaon",
+    "Hatha Yoga Gurgaon",
+    "Ashtanga Yoga Gurgaon",
+    "Prenatal Yoga Gurgaon",
+    "Pranayama classes Gurgaon",
+    "meditation classes Gurgaon",
+    "yoga for beginners Gurgaon",
+    "corporate yoga Gurgaon",
   ],
   openGraph: {
     title: "Satvik Yoga Classes — Find Your Inner Peace",
     description: "Embrace the Sattvic path with expert-led yoga classes. Ashtanga, Hatha, Prenatal, Meditation & more in a serene, welcoming studio.",
-    url: "https://satvikyoga.com",
+    url: "https://www.satvikyog.co.in/",
     siteName: "Satvik Yoga",
     images: [
       {
