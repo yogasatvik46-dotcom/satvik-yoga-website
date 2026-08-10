@@ -100,16 +100,7 @@ export default function YogaClassesGurgaonPage() {
             Satvik Yoga focuses on building a balanced practice that supports
             flexibility, strength, breathing, relaxation and overall
             well-being. Our sessions are suitable for people with different
-            experience levels and wellness goals.
-          </p>
-
-          <h2 className="text-3xl font-bold text-text-dark mb-4">
-            Yoga Classes in Gurgaon for Beginners
-          </h2>
-
-          <p className="text-text-light leading-relaxed mb-6">
-            If you are new to yoga, our beginner-friendly approach can help you understand basic yoga postures, breathing techniques and
-            mindful practices at a comfortable pace.Choosing the right yoga studio can make a big difference 
+            experience levels and wellness goals.Choosing the right yoga studio can make a big difference 
             when you are trying to build a regular and enjoyable practice. 
             Satvik Yoga in Gurgaon focuses on helping you feel stronger, more flexible, relaxed, and comfortable with your own body and breath.
             Our yoga sessions bring together traditional yoga practices with a practical approach suitable for modern lifestyles. 
@@ -122,6 +113,15 @@ export default function YogaClassesGurgaonPage() {
             If you are searching for yoga classes in Gurgaon, Satvik Yoga provides a welcoming environment 
             where you can develop a consistent practice according to your needs and goals.
             Start your journey with Satvik Yoga and discover a healthier, calmer, and more balanced approach to everyday life.
+          </p>
+
+          <h2 className="text-3xl font-bold text-text-dark mb-4">
+            Yoga Classes in Gurgaon for Beginners
+          </h2>
+
+          <p className="text-text-light leading-relaxed mb-6">
+            If you are new to yoga, our beginner-friendly approach can help you understand basic yoga postures, breathing techniques and
+            mindful practices at a comfortable pace.
           </p>
 
           <h2 className="text-3xl font-bold text-text-dark mb-4">
