@@ -60,9 +60,28 @@ export default function YogaClassesGurgaonPage() {
           </p>
 
           <h2 className="text-3xl font-bold text-text-dark mb-4">
-            Our Yoga Practices
+            Yoga classes in Gudgoan | Satvik Yoga 
           </h2>
 
+          <p className="text-text-light leading-relaxed mb-6">
+            Looking for yoga classes in Gurgaon where you can learn, relax, and build a regular practice? 
+            Satvik Yoga offers a welcoming space for people at different stages of their yoga journey. 
+            Whether you are completely new to yoga or already have an established practice, 
+            our sessions are designed to help you feel comfortable and supported.
+            At Satvik Yoga, you can explore Hatha Yoga, Ashtanga Yoga, Pranayama,
+            Meditation, Prenatal Yoga, and yoga for beginners. 
+            Our instructors focus on proper movement, breathing, alignment, 
+            and mindful practice rather than simply following a routine.
+            Regular yoga practice can help improve flexibility, strength, mobility, posture, 
+            and body awareness. It can also be a simple way to take a break from a busy schedule and create some quiet time for yourself.
+            Best yoga studio in Gurgaon for personal wellness or a healthier daily routine, 
+            Satvik Yoga offers classes in a calm and friendly setting. 
+            We also provide corporate yoga sessions in Gurgaon for teams looking to include wellness and mindful movement in their workplace.
+          </p>
+          <h2 className="text-3xl font-bold text-text-dark mb-4">
+            Best Yoga Teacher in Gurgaon for Personalized Yoga Sessions
+          </h2>
+          <p></p>
           <ul className="space-y-3 text-text-light mb-10">
             <li>• Hatha Yoga</li>
             <li>• Ashtanga Yoga</li>
@@ -89,9 +108,20 @@ export default function YogaClassesGurgaonPage() {
           </h2>
 
           <p className="text-text-light leading-relaxed mb-6">
-            If you are new to yoga, our beginner-friendly approach can help
-            you understand basic yoga postures, breathing techniques and
-            mindful practices at a comfortable pace.
+            If you are new to yoga, our beginner-friendly approach can help you understand basic yoga postures, breathing techniques and
+            mindful practices at a comfortable pace.Choosing the right yoga studio can make a big difference 
+            when you are trying to build a regular and enjoyable practice. 
+            Satvik Yoga in Gurgaon focuses on helping you feel stronger, more flexible, relaxed, and comfortable with your own body and breath.
+            Our yoga sessions bring together traditional yoga practices with a practical approach suitable for modern lifestyles. 
+            Whether you are a beginner taking your first steps into yoga or an experienced practitioner looking to deepen your practice,
+            you can learn at your own pace with proper guidance.
+            At Satvik Yoga, classes may include Hatha Yoga, Ashtanga Yoga, Pranayama, Meditation, Prenatal Yoga, and other wellness-focused practices. 
+            Each session encourages mindful movement, breathing awareness, balance, and relaxation.
+            We believe yoga is not only about physical postures. It is also about creating better habits, 
+            improving body awareness, managing everyday tension, and making time for yourself.
+            If you are searching for yoga classes in Gurgaon, Satvik Yoga provides a welcoming environment 
+            where you can develop a consistent practice according to your needs and goals.
+            Start your journey with Satvik Yoga and discover a healthier, calmer, and more balanced approach to everyday life.
           </p>
 
           <h2 className="text-3xl font-bold text-text-dark mb-4">
