@@ -49,7 +49,7 @@ export default function YogaTrainerAtHomeGurgaonPage() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
 
           <h1 className="text-4xl md:text-5xl font-bold text-text-dark mb-6">
-            Yoga Trainer at Home in Gurgaon
+            Yoga Trainer at Home in Gurgaon | Satvik Yoga
           </h1>
 
           <p className="text-lg text-text-light leading-relaxed mb-8">
