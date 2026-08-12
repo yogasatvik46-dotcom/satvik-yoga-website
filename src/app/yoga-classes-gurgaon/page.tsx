@@ -6,19 +6,15 @@ export const metadata: Metadata = {
     "Looking for the best yoga classes in Gurgaon? Satvik Yoga offers Hatha, Ashtanga, Prenatal Yoga, Meditation, Pranayama and wellness classes for different levels.",
 
   keywords: [
-    "best yoga classes in Gurgaon",
-    "yoga classes in Gurgaon",
-    "yoga classes in Gurugram",
-    "best yoga studio in Gurgaon",
-    "yoga studio in Gurgaon",
-    "Satvik Yoga Gurgaon",
-    "Hatha Yoga Gurgaon",
-    "Ashtanga Yoga Gurgaon",
-    "Prenatal Yoga Gurgaon",
-    "Pranayama classes Gurgaon",
-    "meditation classes Gurgaon",
-    "yoga for beginners Gurgaon",
-    "corporate yoga Gurgaon",
+   "yoga classes in gurgaon",
+    "yoga center in gurgaon",
+    "yoga in gurgaon",
+    "yoga gurgaon",
+    "yoga classes gurgaon",
+    "best yoga classes in gurgaon",
+    "yoga studio in gurgaon",
+    "stavik yoga classes in gurgaon",
+    "Power yoga classes in gurgaon",
   ],
 
   alternates: {
