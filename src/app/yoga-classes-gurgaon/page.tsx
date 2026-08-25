@@ -196,7 +196,7 @@ export default function YogaClassesGurgaonPage() {
 
           {/* FAQ */}
           <h2 className="text-3xl font-bold text-text-dark mb-6">
-            Frequently Asked Questions
+            Frequently Asked Questions About Yoga Classes in Gurgaon
           </h2>
 
           <h3 className="text-xl font-semibold text-text-dark mb-2">
@@ -227,6 +227,23 @@ export default function YogaClassesGurgaonPage() {
             interested in incorporating yoga, mindful movement and wellness
             into their workplace.
           </p>
+          <h3 className="text-xl font-semibold text-text-dark mb-2">
+            Do you offer personalized yoga sessions in Gurgaon?
+          </h3>
+
+           <p className="text-text-light leading-relaxed mb-6">
+              Yes. Satvik Yoga offers personalized yoga sessions that can be adapted
+              according to your experience level, comfort and individual yoga goals.
+           </p>
+
+            <h3 className="text-xl font-semibold text-text-dark mb-2">
+               How can I join Satvik Yoga classes?
+            </h3>
+
+            <p className="text-text-light leading-relaxed mb-8">
+             You can contact Satvik Yoga to learn about available classes, timings,
+             session options and registration.
+             </p>
 
           {/* CTA */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
