@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.satvikyog.co.in"),
   title: {
-    default: "Satvik Yoga Classes — Find Your Inner Peace",
+    default: "Satvik Yoga Classes — yoga classes in Gurgoan | Gurugram",
     template: "%s | Satvik Yoga",
   },
   description:
