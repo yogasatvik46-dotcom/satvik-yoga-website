@@ -1,25 +1,23 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Yoga Trainer at Home in Gurgaon",
+  title: "Yoga Trainer at Home in Gurgaon | Satvik Yoga",
+
   description:
-    "Looking for a yoga trainer at home in Gurgaon? Satvik Yoga offers personalized yoga sessions at home for beginners, adults, prenatal wellness and overall fitness.",
+    "Looking for a yoga trainer at home in Gurgaon? Satvik Yoga offers personalized home yoga sessions for beginners and experienced practitioners.",
 
   keywords: [
     "yoga trainer at home Gurgaon",
     "yoga teacher at home Gurgaon",
-    "yoga classes at home Gurgaon",
-    "personal yoga trainer Gurgaon",
     "home yoga classes Gurgaon",
+    "personal yoga trainer Gurgaon",
     "private yoga trainer Gurgaon",
     "yoga instructor at home Gurgaon",
     "yoga for beginners at home Gurgaon",
+    "prenatal yoga at home Gurgaon",
     "Hatha yoga trainer Gurgaon",
     "Ashtanga yoga trainer Gurgaon",
-    "prenatal yoga at home Gurgaon",
-    "yoga trainer in Gurugram",
-    "personal yoga classes Gurgaon",
-    "Satvik Yoga Gurgaon",
   ],
 
   alternates: {
@@ -35,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Yoga Trainer at Home in Gurgaon | Satvik Yoga",
     description:
-      "Personalized yoga sessions at home in Gurgaon with Satvik Yoga. Suitable for beginners and experienced practitioners.",
+      "Personalized home yoga sessions in Gurgaon with Satvik Yoga for beginners and experienced practitioners.",
     url: "https://www.satvikyog.co.in/yoga-trainer-at-home-gurgaon",
     siteName: "Satvik Yoga",
     type: "website",
@@ -48,18 +46,21 @@ export default function YogaTrainerAtHomeGurgaonPage() {
       <section className="py-16 md:py-20 bg-white">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
 
+          {/* H1 */}
           <h1 className="text-4xl md:text-5xl font-bold text-text-dark mb-6">
-            Yoga Trainer at Home in Gurgaon | Satvik Yoga
+            Yoga Trainer at Home in Gurgaon
           </h1>
 
+          {/* Introduction */}
           <p className="text-lg text-text-light leading-relaxed mb-8">
             Looking for a yoga trainer at home in Gurgaon? Satvik Yoga offers
             personalized yoga sessions designed to make regular yoga practice
-            easier and more comfortable. Home yoga sessions can be suitable for
-            beginners, working professionals, adults and anyone who prefers
-            personal guidance in a familiar environment.
+            easier and more comfortable. Home yoga sessions can be suitable
+            for beginners, working professionals, adults and anyone who
+            prefers personal guidance in a familiar environment.
           </p>
 
+          {/* Personalized Sessions */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Personalized Yoga Sessions at Home
           </h2>
@@ -80,6 +81,7 @@ export default function YogaTrainerAtHomeGurgaonPage() {
             their everyday routine.
           </p>
 
+          {/* Services */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Yoga Services Available at Home in Gurgaon
           </h2>
@@ -99,6 +101,7 @@ export default function YogaTrainerAtHomeGurgaonPage() {
             <li>• Personalized Yoga Sessions</li>
           </ul>
 
+          {/* Benefits */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Benefits of Having a Yoga Trainer at Home
           </h2>
@@ -118,11 +121,12 @@ export default function YogaTrainerAtHomeGurgaonPage() {
             relevant to your current practice and lifestyle.
           </p>
 
+          {/* Beginners */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Personal Yoga Trainer in Gurgaon for Beginners
           </h2>
 
-          <p className="text-text-light leading-relaxed mb-6">
+          <p className="text-text-light leading-relaxed mb-8">
             If you are completely new to yoga, starting with personal guidance
             can help you understand basic postures, breathing and movement
             safely and comfortably. Satvik Yoga provides a supportive approach
@@ -130,11 +134,12 @@ export default function YogaTrainerAtHomeGurgaonPage() {
             in their yoga practice.
           </p>
 
+          {/* Healthy Routine */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Yoga Trainer at Home in Gurgaon for a Healthier Routine
           </h2>
 
-          <p className="text-text-light leading-relaxed mb-6">
+          <p className="text-text-light leading-relaxed mb-8">
             Maintaining a regular wellness routine can be difficult when you
             have a busy schedule. Home yoga sessions provide a convenient way
             to make time for movement, breathing and relaxation. With
@@ -142,6 +147,7 @@ export default function YogaTrainerAtHomeGurgaonPage() {
             practice that fits naturally into your daily lifestyle.
           </p>
 
+          {/* Why Choose */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Why Choose Satvik Yoga?
           </h2>
@@ -159,13 +165,85 @@ export default function YogaTrainerAtHomeGurgaonPage() {
             aims to provide a welcoming and comfortable learning experience.
           </p>
 
+          {/* Internal Link */}
+          <h2 className="text-3xl font-bold text-text-dark mb-4">
+            Yoga Classes in Gurgaon
+          </h2>
+
+          <p className="text-text-light leading-relaxed mb-8">
+            If you prefer attending a yoga studio, you can also explore our{" "}
+            <Link
+              href="/yoga-classes-gurgaon"
+              className="font-medium underline"
+            >
+              yoga classes in Gurgaon
+            </Link>
+            . Satvik Yoga offers different yoga and wellness practices for
+            beginners and experienced practitioners.
+          </p>
+
+          {/* FAQ */}
+          <h2 className="text-3xl font-bold text-text-dark mb-6">
+            Frequently Asked Questions About Home Yoga in Gurgaon
+          </h2>
+
+          <h3 className="text-xl font-semibold text-text-dark mb-2">
+            What is a yoga trainer at home?
+          </h3>
+
+          <p className="text-text-light leading-relaxed mb-6">
+            A yoga trainer at home provides personalized yoga guidance in your
+            home environment. Sessions can be adapted according to your
+            experience, comfort level and individual goals.
+          </p>
+
+          <h3 className="text-xl font-semibold text-text-dark mb-2">
+            Is home yoga suitable for beginners?
+          </h3>
+
+          <p className="text-text-light leading-relaxed mb-6">
+            Yes. Beginners can learn basic yoga postures, breathing techniques
+            and mindful movement with personalized guidance at a comfortable
+            pace.
+          </p>
+
+          <h3 className="text-xl font-semibold text-text-dark mb-2">
+            What types of yoga can I practice at home?
+          </h3>
+
+          <p className="text-text-light leading-relaxed mb-6">
+            Depending on your needs and the sessions available, you can
+            explore practices such as Hatha Yoga, Ashtanga Yoga, Pranayama,
+            Meditation and beginner-friendly yoga.
+          </p>
+
+          <h3 className="text-xl font-semibold text-text-dark mb-2">
+            Do you offer prenatal yoga at home in Gurgaon?
+          </h3>
+
+          <p className="text-text-light leading-relaxed mb-6">
+            Satvik Yoga offers prenatal yoga sessions where available.
+            Prenatal practices should be adapted to individual needs and
+            undertaken with appropriate professional guidance.
+          </p>
+
+          <h3 className="text-xl font-semibold text-text-dark mb-2">
+            How can I book a home yoga session?
+          </h3>
+
+          <p className="text-text-light leading-relaxed mb-8">
+            Contact Satvik Yoga to ask about available home yoga sessions,
+            timings, locations and booking options.
+          </p>
+
+          {/* CTA */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Start Your Home Yoga Journey
           </h2>
 
           <p className="text-text-light leading-relaxed">
-            If you are searching for a yoga trainer at home in Gurgaon, explore
-            Satvik Yoga and discover a personalized approach to yoga,
+            If you are searching for a yoga trainer at home in Gurgaon,
+            explore Satvik Yoga and discover a personalized approach to yoga,
             breathing, movement and wellness. Contact Satvik Yoga to learn
             more about available sessions and timings.
           </p>
