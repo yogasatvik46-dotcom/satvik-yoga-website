@@ -11,11 +11,11 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.satvikyog.co.in"),
   title: {
-    default: "Satvik Yoga Classes — yoga classes in Gurgoan | Gurugram",
+    default: "Yoga Classes in India & Gurgaon | Satvik Yoga",
     template: "%s | Satvik Yoga",
   },
   description:
-    "Embrace the Sattvic path with expert-led yoga classes. Ashtanga, Hatha, Prenatal, Meditation & more in a serene, welcoming studio. Inquire via WhatsApp today.",
+    "Learn yoga with Satvik Yoga through expert-led online classes across India and in-person yoga classes in Gurgaon. Explore Hatha, Ashtanga, prenatal yoga, meditation and more.",
   keywords: [
     "best yoga classes in Gurgaon",
     "yoga classes in Gurgaon",
