@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Yoga Trainer at Home in Gurgaon | Satvik Yoga",
+  title: "Yoga Trainer at Home in Gurgaon",
   description:
     "Looking for a yoga trainer at home in Gurgaon? Satvik Yoga offers personalized yoga sessions at home for beginners, adults, prenatal wellness and overall fitness.",
 
