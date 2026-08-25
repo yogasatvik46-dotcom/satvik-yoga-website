@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.satvikyog.co.in"),
   title: {
-    default: "Yoga Classes in India & Gurgaon | Satvik Yoga",
+    default: "Best Yoga Classes in Gurgaon | Satvik Yoga",
     template: "%s | Satvik Yoga",
   },
   description:
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title: "Satvik Yoga Classes — Find Your Inner Peace",
-    description: "Embrace the Sattvic path with expert-led yoga classes. Ashtanga, Hatha, Prenatal, Meditation & more in a serene, welcoming studio.",
+    description: "Satvik Yoga offers yoga classes in Gurgaon and Gurugram, including Hatha Yoga, Ashtanga Yoga, Prenatal Yoga, Meditation, Pranayama and yoga for beginners.",
     url: "https://www.satvikyog.co.in/",
     siteName: "Satvik Yoga",
     images: [
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
         alt: "Satvik Yoga Studio",
       },
     ],
-    locale: "en_US",
+    locale: "en_IN",
     type: "website",
   },
   twitter: {
