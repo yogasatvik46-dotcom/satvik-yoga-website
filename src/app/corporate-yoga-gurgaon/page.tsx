@@ -2,23 +2,24 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Corporate Yoga Classes in Gurgaon & Delhi NCR | Satvik Yoga",
+  title: "Corporate & Chair Yoga Classes in Gurgaon | Satvik Yoga",
 
   description:
-    "Satvik Yoga offers corporate yoga classes in Gurgaon and Delhi NCR for companies, offices and working professionals. Explore guided office yoga sessions for movement, relaxation, breathing and workplace wellness.",
+    "Join corporate and chair yoga classes in Gurgaon with Satvik Yoga. Guided workplace yoga sessions for companies and working professionals, including chair yoga, mobility, breathing and relaxation practices.",
 
   keywords: [
     "Corporate Yoga Classes in Gurgaon",
     "Corporate Yoga Gurgaon",
-    "Corporate Yoga Classes Delhi NCR",
+    "Chair Yoga Gurgaon",
+    "Chair Yoga Classes Gurgaon",
     "Office Yoga Classes Gurgaon",
     "Office Yoga Gurgaon",
     "Yoga Classes for Working Professionals",
-    "Yoga for Working Professionals Gurgaon",
     "Workplace Yoga Gurgaon",
     "Corporate Wellness Yoga Gurgaon",
     "Yoga for Employees Gurgaon",
-    "Office Yoga Classes Near Me",
+    "Chair Yoga for Office Employees",
+    "Corporate Yoga Delhi NCR",
   ],
 
   alternates: {
@@ -32,9 +33,9 @@ export const metadata: Metadata = {
   },
 
   openGraph: {
-    title: "Corporate Yoga Classes in Gurgaon & Delhi NCR | Satvik Yoga",
+    title: "Corporate & Chair Yoga Classes in Gurgaon | Satvik Yoga",
     description:
-      "Guided corporate and office yoga classes in Gurgaon for working professionals and workplace wellness.",
+      "Guided corporate, office and chair yoga sessions in Gurgaon for working professionals and workplace wellness.",
     url: "https://www.satvikyog.co.in/corporate-yoga-gurgaon",
     siteName: "Satvik Yoga",
     locale: "en_IN",
@@ -53,211 +54,235 @@ export default function CorporateYogaGurgaonPage() {
             Corporate Yoga Classes in Gurgaon
           </h1>
 
-          <p className="text-lg text-text-light leading-relaxed mb-8">
+          <p className="text-lg text-text-light leading-relaxed mb-6">
             Satvik Yoga offers guided corporate yoga classes in Gurgaon for
-            companies, offices and working professionals. Workplace yoga can
-            provide employees with an opportunity to include mindful movement,
-            breathing practices and relaxation in their regular work routine.
+            companies, offices and working professionals. Corporate yoga can
+            bring mindful movement, breathing practices, flexibility and
+            relaxation into the workplace in a practical and accessible way.
           </p>
 
-          <p className="text-text-light leading-relaxed mb-8">
-            Based in Gurugram, Satvik Yoga can support organizations looking
-            for structured yoga sessions for their teams. Sessions can be
-            planned according to the workplace environment, group size,
-            schedule and experience level of participants.
+          <p className="text-text-light leading-relaxed mb-10">
+            Based in Gurugram, Satvik Yoga provides yoga sessions that can be
+            adapted to the needs of an organization and its employees. Whether
+            you are looking for a regular workplace wellness activity, a group
+            yoga session or chair-based yoga for an office environment, the
+            program can be discussed according to your requirements.
           </p>
 
-          {/* Section 1 */}
+          {/* What is Corporate Yoga */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
-            What Are Corporate Yoga Classes?
+            What Is Corporate Yoga?
           </h2>
 
-          <p className="text-text-light leading-relaxed mb-8">
-            Corporate yoga refers to guided yoga and wellness sessions
-            organized for employees in a workplace or through a company
-            wellness program. Sessions may include yoga postures, mobility
-            movements, breathing awareness, relaxation and mindful practices.
+          <p className="text-text-light leading-relaxed mb-6">
+            Corporate yoga is a guided yoga and wellness activity designed for
+            employees in a workplace or company wellness program. Sessions can
+            include simple yoga postures, mobility movements, breathing
+            awareness and relaxation practices.
           </p>
 
-          {/* Section 2 */}
+          <p className="text-text-light leading-relaxed mb-10">
+            Corporate yoga does not have to be an advanced physical workout.
+            Sessions can be structured for beginners and employees with
+            different levels of experience. The focus can be on practical
+            movement and mindful practices that are appropriate for a
+            professional environment.
+          </p>
+
+          {/* Office Yoga */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Office Yoga Classes in Gurgaon
           </h2>
 
           <p className="text-text-light leading-relaxed mb-6">
-            Office yoga can be introduced as part of a company's employee
-            wellness activities. Short and structured sessions can give
-            employees an opportunity to step away from their desks, move their
-            bodies and practice breathing or relaxation techniques.
+            Office yoga gives employees an opportunity to include movement and
+            relaxation during the working day. Many professionals spend long
+            periods sitting at a desk, working on computers or following
+            demanding schedules. A guided yoga session can introduce a
+            structured movement break into the workplace routine.
           </p>
 
-          <p className="text-text-light leading-relaxed mb-8">
-            Satvik Yoga can provide guided sessions for workplaces in Gurgaon
-            and the surrounding Gurugram area, depending on the program and
-            arrangements with the organization.
+          <p className="text-text-light leading-relaxed mb-10">
+            Office yoga can include seated, standing or supported movements,
+            depending on the available space and the type of session. Satvik
+            Yoga can discuss the suitable format with companies looking for
+            workplace yoga in Gurgaon.
           </p>
 
-          {/* Section 3 */}
+          {/* Working Professionals */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Yoga Classes for Working Professionals
           </h2>
 
-          <p className="text-text-light leading-relaxed mb-8">
-            Working professionals often spend long periods sitting, using
-            computers or managing demanding schedules. A suitable yoga routine
-            can introduce movement, breathing awareness and relaxation into the
-            working day.
+          <p className="text-text-light leading-relaxed mb-6">
+            Working professionals often have limited time for regular
+            movement. Yoga can provide a practical way to include mobility,
+            breathing awareness and relaxation in a busy routine.
           </p>
 
-          <p className="text-text-light leading-relaxed mb-8">
-            Corporate yoga sessions can be designed to be accessible to
-            employees with different levels of yoga experience. Participants
-            can learn simple and practical movements that fit into a workplace
-            wellness routine.
+          <p className="text-text-light leading-relaxed mb-10">
+            Corporate sessions can be designed so that employees with little
+            or no previous yoga experience can participate comfortably.
+            Participants who already practice yoga can also continue working
+            on movement, balance, flexibility and mindful awareness.
           </p>
 
-          {/* Section 4 */}
+          {/* Chair Yoga */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
-            Benefits of Yoga in the Workplace
+            Chair Yoga for Employees
           </h2>
 
           <p className="text-text-light leading-relaxed mb-6">
-            Regular movement and mindful practices can contribute to a
-            healthier workplace routine. Depending on the individual and the
-            type of session, corporate yoga may support:
-          </p>
-
-          <ul className="text-text-light leading-relaxed mb-8 list-disc pl-6 space-y-2">
-            <li>Better awareness of posture and movement</li>
-            <li>Flexibility and mobility</li>
-            <li>Breathing awareness</li>
-            <li>Relaxation during a busy workday</li>
-            <li>Mindful movement and concentration</li>
-            <li>Development of healthy workplace routines</li>
-            <li>Opportunities for employees to practice together</li>
-          </ul>
-
-          {/* Section 5 */}
-          <h2 className="text-3xl font-bold text-text-dark mb-4">
-            Corporate Yoga Sessions for Employees
-          </h2>
-
-          <p className="text-text-light leading-relaxed mb-8">
-            Corporate yoga sessions can be arranged for employees with
-            different levels of experience. Beginners can learn simple
-            foundational movements, while participants with previous
-            experience can continue developing their yoga practice.
-          </p>
-
-          <p className="text-text-light leading-relaxed mb-8">
-            The content and pace of a session can be adjusted according to the
-            needs of the organization and the participants.
-          </p>
-
-          {/* Section 6 */}
-          <h2 className="text-3xl font-bold text-text-dark mb-4">
-            Types of Corporate Yoga Sessions
-          </h2>
-
-          <h3 className="text-2xl font-semibold text-text-dark mb-3">
-            Group Yoga Sessions
-          </h3>
-
-          <p className="text-text-light leading-relaxed mb-6">
-            Group sessions allow employees to practice together under guided
-            instruction. They can be included as part of regular workplace
-            wellness activities.
-          </p>
-
-          <h3 className="text-2xl font-semibold text-text-dark mb-3">
-            Short Office Yoga Sessions
-          </h3>
-
-          <p className="text-text-light leading-relaxed mb-6">
-            Short sessions can focus on simple movements, breathing awareness
-            and relaxation. They may be useful for organizations that want to
-            include yoga without requiring a long break from work.
-          </p>
-
-          <h3 className="text-2xl font-semibold text-text-dark mb-3">
-            Workplace Wellness Sessions
-          </h3>
-
-          <p className="text-text-light leading-relaxed mb-8">
-            Yoga can be included within a broader employee wellness program,
-            with sessions focused on movement, breathing, awareness and
+            Chair yoga is a convenient form of yoga practice that uses a chair
+            for support. It can include seated yoga movements, gentle
+            mobility exercises, posture awareness, breathing practices and
             relaxation.
           </p>
 
-          {/* Section 7 */}
-          <h2 className="text-3xl font-bold text-text-dark mb-4">
-            Yoga for Employees Working at a Desk
-          </h2>
-
-          <p className="text-text-light leading-relaxed mb-8">
-            Desk-based work often involves long periods of sitting and limited
-            movement. Workplace yoga can introduce simple mobility and
-            movement practices that employees can learn with appropriate
-            guidance.
+          <p className="text-text-light leading-relaxed mb-6">
+            Chair yoga can be particularly useful in offices where employees
+            do not have access to a large open space. Participants can remain
+            near their workstations while following guided movements that are
+            suitable for the workplace setting.
           </p>
 
-          {/* Section 8 */}
+          <p className="text-text-light leading-relaxed mb-10">
+            Chair yoga is not about forcing the body into difficult positions.
+            Movements should be performed within a comfortable range and with
+            appropriate guidance. The exact exercises can vary according to
+            the group and session format.
+          </p>
+
+          {/* Chair Yoga Benefits */}
+          <h2 className="text-3xl font-bold text-text-dark mb-4">
+            Benefits of Chair Yoga at the Workplace
+          </h2>
+
+          <p className="text-text-light leading-relaxed mb-6">
+            Chair yoga can make guided movement easier to include in a busy
+            office environment. Depending on the individual and the type of
+            practice, chair yoga may support:
+          </p>
+
+          <ul className="text-text-light leading-relaxed mb-10 list-disc pl-6 space-y-2">
+            <li>Gentle movement during the working day</li>
+            <li>Flexibility and mobility</li>
+            <li>Posture awareness</li>
+            <li>Breathing awareness</li>
+            <li>Relaxation and mindful breaks</li>
+            <li>Body awareness</li>
+            <li>A more active workplace routine</li>
+          </ul>
+
+          {/* What Included */}
+          <h2 className="text-3xl font-bold text-text-dark mb-4">
+            What Is Included in a Corporate Yoga Session?
+          </h2>
+
+          <p className="text-text-light leading-relaxed mb-6">
+            The content of a corporate yoga session can vary depending on the
+            organization, group and available space. A session may include:
+          </p>
+
+          <ul className="text-text-light leading-relaxed mb-10 list-disc pl-6 space-y-2">
+            <li>Gentle warm-up movements</li>
+            <li>Seated and standing yoga postures</li>
+            <li>Chair-based yoga movements</li>
+            <li>Mobility and flexibility exercises</li>
+            <li>Posture and movement awareness</li>
+            <li>Breathing practices</li>
+            <li>Mindful movement</li>
+            <li>Relaxation practices</li>
+          </ul>
+
+          {/* Beginner */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Corporate Yoga for Beginners
           </h2>
 
-          <p className="text-text-light leading-relaxed mb-8">
-            Employees do not necessarily need previous yoga experience to
-            participate in a beginner-friendly corporate yoga session. Basic
-            movements, breathing awareness and relaxation practices can be
-            introduced at a comfortable pace.
+          <p className="text-text-light leading-relaxed mb-10">
+            Employees do not need to be experienced yoga practitioners to
+            participate in a beginner-friendly corporate session. Basic
+            movements, breathing awareness and relaxation can be introduced
+            gradually so participants can become familiar with the practice.
           </p>
 
-          {/* Section 9 */}
+          {/* Short Sessions */}
+          <h2 className="text-3xl font-bold text-text-dark mb-4">
+            Short Yoga Sessions for the Office
+          </h2>
+
+          <p className="text-text-light leading-relaxed mb-10">
+            Companies may prefer shorter sessions that fit around meetings and
+            normal working hours. A short workplace yoga session can focus on
+            simple movement, mobility, breathing and relaxation. Chair yoga
+            can be especially convenient when there is limited space or
+            employees need to remain close to their desks.
+          </p>
+
+          {/* Workplace Wellness */}
+          <h2 className="text-3xl font-bold text-text-dark mb-4">
+            Yoga for Workplace Wellness
+          </h2>
+
+          <p className="text-text-light leading-relaxed mb-6">
+            Yoga can be included as one activity within a broader employee
+            wellness program. Regular opportunities for guided movement and
+            relaxation can help create a workplace culture that gives
+            attention to employee wellbeing.
+          </p>
+
+          <p className="text-text-light leading-relaxed mb-10">
+            Corporate yoga can also provide employees with a shared activity
+            that encourages mindful movement and time away from continuous
+            desk-based work.
+          </p>
+
+          {/* Gurgaon NCR */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Corporate Yoga in Gurgaon and Delhi NCR
           </h2>
 
-          <p className="text-text-light leading-relaxed mb-8">
+          <p className="text-text-light leading-relaxed mb-10">
             Satvik Yoga is based in Gurugram and serves the local Gurgaon area.
-            Organizations in Gurgaon and the wider Delhi NCR region can contact
-            Satvik Yoga to discuss corporate yoga requirements, session
-            formats and availability.
+            Companies and organizations in Gurgaon and the wider Delhi NCR
+            region can contact Satvik Yoga to discuss corporate yoga, office
+            yoga and chair yoga requirements.
           </p>
 
-          {/* Section 10 */}
+          {/* Why Satvik */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Why Choose Satvik Yoga for Corporate Yoga?
           </h2>
 
           <p className="text-text-light leading-relaxed mb-6">
-            Satvik Yoga focuses on making yoga practical and accessible for
-            different levels of practitioners. Corporate sessions can be
-            structured around the needs of employees and the workplace
-            environment.
+            Satvik Yoga takes a practical approach to yoga and aims to make
+            guided sessions accessible to people with different levels of
+            experience. Corporate sessions can combine traditional yoga
+            practices with movement, breathing and relaxation.
           </p>
 
-          <p className="text-text-light leading-relaxed mb-8">
-            The sessions can incorporate traditional yoga practices with
-            mindful movement, breathing and relaxation to create a practical
-            workplace wellness experience.
+          <p className="text-text-light leading-relaxed mb-10">
+            Organizations can discuss their employee group, preferred session
+            format, available space and schedule with Satvik Yoga to determine
+            an appropriate approach for their workplace.
           </p>
 
-          {/* Section 11 */}
+          {/* Location */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Corporate Yoga Classes Near Sector 47, Gurgaon
           </h2>
 
-          <p className="text-text-light leading-relaxed mb-8">
+          <p className="text-text-light leading-relaxed mb-10">
             Satvik Yoga is located in Sector 47, Gurugram, near Subhash Chowk.
             Businesses and organizations in and around Gurgaon can contact
-            Satvik Yoga to discuss corporate yoga sessions and available
-            arrangements.
+            Satvik Yoga to discuss corporate yoga and workplace wellness
+            sessions.
           </p>
 
           {/* FAQ */}
           <h2 className="text-3xl font-bold text-text-dark mb-6">
-            Frequently Asked Questions About Corporate Yoga
+            Frequently Asked Questions
           </h2>
 
           <h3 className="text-xl font-semibold text-text-dark mb-2">
@@ -266,8 +291,28 @@ export default function CorporateYogaGurgaonPage() {
 
           <p className="text-text-light leading-relaxed mb-6">
             Corporate yoga classes are guided yoga and wellness sessions
-            organized for employees as part of a workplace or corporate
-            wellness program.
+            organized for employees as part of a workplace or company wellness
+            program.
+          </p>
+
+          <h3 className="text-xl font-semibold text-text-dark mb-2">
+            What is chair yoga?
+          </h3>
+
+          <p className="text-text-light leading-relaxed mb-6">
+            Chair yoga is a form of yoga practice that uses a chair for
+            support. It may include seated movements, gentle mobility,
+            breathing awareness and relaxation practices.
+          </p>
+
+          <h3 className="text-xl font-semibold text-text-dark mb-2">
+            Is chair yoga suitable for office employees?
+          </h3>
+
+          <p className="text-text-light leading-relaxed mb-6">
+            Chair yoga can be convenient for office employees because it can
+            be practiced in a workplace setting with limited space and simple
+            equipment.
           </p>
 
           <h3 className="text-xl font-semibold text-text-dark mb-2">
@@ -275,58 +320,49 @@ export default function CorporateYogaGurgaonPage() {
           </h3>
 
           <p className="text-text-light leading-relaxed mb-6">
-            Yes. Corporate yoga sessions can be designed for participants with
+            Yes. Corporate yoga sessions can be structured for employees with
             little or no previous yoga experience. Basic movements and
-            breathing practices can be introduced at a comfortable pace.
+            breathing practices can be introduced gradually.
           </p>
 
           <h3 className="text-xl font-semibold text-text-dark mb-2">
-            What can employees learn in an office yoga session?
+            What are the benefits of office yoga?
           </h3>
 
           <p className="text-text-light leading-relaxed mb-6">
-            Depending on the session, employees may learn simple yoga
-            postures, mobility movements, breathing awareness, mindful
-            movement and relaxation practices.
+            Office yoga provides employees with an opportunity to include
+            movement, mobility, breathing awareness and relaxation in their
+            workday.
           </p>
 
           <h3 className="text-xl font-semibold text-text-dark mb-2">
-            Can corporate yoga be conducted for a group of employees?
+            Do employees need a yoga mat for chair yoga?
           </h3>
 
           <p className="text-text-light leading-relaxed mb-6">
-            Yes. Corporate yoga can be structured as a group session for
-            employees. The format can be discussed according to the
-            organization's requirements and participant group.
+            A chair-based session generally does not require a yoga mat.
+            Participants use a stable chair for supported movements. The exact
+            setup depends on the session.
           </p>
 
           <h3 className="text-xl font-semibold text-text-dark mb-2">
-            Do you offer yoga for working professionals?
+            Can companies arrange corporate yoga for a group?
           </h3>
 
           <p className="text-text-light leading-relaxed mb-6">
-            Satvik Yoga offers guided yoga options that can be suitable for
-            working professionals. Contact us to discuss available corporate
-            and workplace yoga sessions.
+            Yes. Corporate yoga can be structured as a group workplace
+            activity. Companies can discuss their employee group, schedule
+            and preferred format with Satvik Yoga.
           </p>
 
           <h3 className="text-xl font-semibold text-text-dark mb-2">
-            Where is Satvik Yoga located?
-          </h3>
-
-          <p className="text-text-light leading-relaxed mb-6">
-            Satvik Yoga is located in Sector 47, Gurugram, near Subhash Chowk.
-            Organizations can contact the studio for corporate yoga
-            requirements and session information.
-          </p>
-
-          <h3 className="text-xl font-semibold text-text-dark mb-2">
-            How can a company arrange corporate yoga classes?
+            Do you offer corporate yoga in Gurgaon?
           </h3>
 
           <p className="text-text-light leading-relaxed mb-8">
-            Companies can contact Satvik Yoga to discuss their employee group,
-            preferred session format, schedule and corporate yoga requirements.
+            Satvik Yoga is based in Gurugram. Companies in Gurgaon and nearby
+            areas can contact Satvik Yoga to discuss corporate, office and
+            chair yoga sessions.
           </p>
 
           {/* CTA */}
@@ -335,14 +371,15 @@ export default function CorporateYogaGurgaonPage() {
           </h2>
 
           <p className="text-text-light leading-relaxed mb-6">
-            Looking for corporate yoga classes in Gurgaon or Delhi NCR? Satvik
-            Yoga can help organizations explore guided yoga sessions for
-            employees and working professionals.
+            Looking for corporate yoga, office yoga or chair yoga classes in
+            Gurgaon? Satvik Yoga can help organizations explore guided yoga
+            sessions for employees and working professionals.
           </p>
 
           <p className="text-text-light leading-relaxed">
-            Contact Satvik Yoga to discuss your organization's requirements,
-            preferred schedule and available corporate yoga options.
+            Contact Satvik Yoga to discuss your company's requirements,
+            preferred schedule, employee group and available corporate yoga
+            options.
           </p>
 
         </div>
