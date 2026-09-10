@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Best Yoga Classes in Gurgaon | Satvik Yoga",
 
   description:
-    "Join Satvik Yoga for yoga classes in Gurgaon including Hatha, Ashtanga, Prenatal Yoga, Meditation and Pranayama. Classes are available for beginners and experienced practitioners.",
+    "Explore yoga classes in Gurgaon at Satvik Yoga. Learn Hatha, Ashtanga, Prenatal Yoga, Meditation and Pranayama with sessions for beginners and experienced practitioners.",
 
   keywords: [
     "yoga classes in Gurgaon",
@@ -41,12 +41,11 @@ export default function YogaClassesGurgaonPage() {
           </h1>
 
           <p className="text-lg text-text-light leading-relaxed mb-8">
-            Satvik Yoga offers expert-led yoga classes in Gurgaon for
-            beginners and experienced practitioners. Our approach combines
-            traditional yoga practices with mindful movement, breathing,
-            meditation and holistic wellness. Whether you are starting your
-            yoga journey or looking to deepen your existing practice, our
-            sessions are designed to support your individual needs and goals.
+            Satvik Yoga offers yoga classes in Gurgaon for beginners, experienced practitioners, 
+            and anyone looking to build a regular yoga practice. Our sessions combine traditional yoga postures, 
+            mindful movement, breathing practices, meditation and relaxation. Whether you are looking for Hatha Yoga, 
+            Ashtanga Yoga, Prenatal Yoga, Pranayama or personalized yoga sessions, our approach is designed to support your experience level 
+            and individual goals.
           </p>
 
           {/* Section 1 */}
@@ -62,7 +61,15 @@ export default function YogaClassesGurgaonPage() {
             beginners who are learning the basics to practitioners who want to
             develop their existing practice.
           </p>
+           <h2 className="text-3xl font-bold text-text-dark mb-4">
+            Yoga Classes in Gurgaon Areas We Serve
+          </h2>
 
+          <p className="text-text-light leading-relaxed mb-8">
+           Satvik Yoga serves students across several areas of Gurgaon/Gurugram, 
+            with yoga sessions available depending on the class format and location. 
+            We aim to make yoga accessible to students looking for regular, personalized and beginner-friendly yoga practice.
+          </p>
           {/* Section 2 */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
             Yoga Classes in Gurgaon for Every Level
