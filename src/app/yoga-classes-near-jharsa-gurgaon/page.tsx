@@ -1,6 +1,5 @@
 
 import type { Metadata } from "next";
-import Link from "next/link";
 
 const pageUrl =
   "https://www.satvikyog.co.in/yoga-classes-near-jharsa-gurgaon";
@@ -24,7 +23,6 @@ export const metadata: Metadata = {
     "Home Yoga Classes Gurgaon",
     "Yoga Teacher Near Jharsa",
     "Yoga Instructor Near Sector 39",
-    "Home Yoga Instructor Gurgaon",
     "Yoga Classes in Sector 31 Gurgaon",
     "Yoga Classes in Sector 40 Gurgaon",
     "Yoga Classes in Sector 37 Gurgaon",
@@ -69,17 +67,17 @@ const faqs = [
   {
     question: "Do you provide yoga classes within 1–2 km of Sector 39?",
     answer:
-      "The primary service focus is approximately 1–2 km from the tutor's base near Sector 39 and Jharsa. The actual road distance and availability must be confirmed before booking.",
+      "The primary service focus is approximately 1–2 km from the tutor's base near Sector 39 and Jharsa. Actual road distance and availability must be confirmed before booking.",
   },
   {
     question: "Can I get a yoga instructor at my home?",
     answer:
-      "You can enquire about a home-visit yoga session by sharing your sector, nearby landmark and preferred timings. The session will depend on tutor availability and confirmation.",
+      "You can enquire about a home-visit yoga session by sharing your sector, nearby landmark and preferred timings. The session depends on tutor availability and confirmation.",
   },
   {
     question: "What types of yoga classes can I enquire about?",
     answer:
-      "Contact Satvik Yoga to discuss your yoga goals, experience level and the programs currently available for home visits. The appropriate session format can be confirmed directly.",
+      "Contact Satvik Yoga to discuss your yoga goals, experience level and the programs currently available for home visits.",
   },
   {
     question: "How can I check yoga class fees and timings?",
@@ -91,10 +89,10 @@ const faqs = [
 export default function YogaClassesNearJharsaPage() {
   return (
     <main>
-      {/* Hero */}
       <section className="py-20 bg-white">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
 
+          {/* H1 */}
           <h1 className="text-4xl md:text-5xl font-bold text-text-dark mb-6">
             Home Yoga Classes Near Jharsa, Sector 39 Gurgaon
           </h1>
@@ -110,7 +108,7 @@ export default function YogaClassesNearJharsaPage() {
           <p className="text-text-light leading-relaxed mb-6">
             The tutor's base is near Sector 39 / Jharsa, with an initial
             service focus of approximately 1–2 km. Residents in nearby
-            sectors can also enquire, as the actual travel distance and
+            sectors can also enquire, as actual travel distance and
             availability depend on the exact location and schedule.
           </p>
 
@@ -151,14 +149,13 @@ export default function YogaClassesNearJharsaPage() {
           <p className="text-text-light leading-relaxed mb-6">
             Sector 39 near Jharsa is the primary target area for
             home-visit yoga enquiries. If you live nearby and prefer
-            practising yoga at home, you can enquire about available
-            sessions, suitable timings and fees.
+            practising yoga at home, enquire about available sessions,
+            suitable timings and fees.
           </p>
 
           <p className="text-text-light leading-relaxed mb-10">
-            The availability of home visits depends on the exact
-            address, road distance and tutor schedule. Contact us
-            before making arrangements.
+            Home visits depend on the exact address, road distance and
+            tutor schedule. Contact us before making arrangements.
           </p>
 
           {/* Sector 31 */}
@@ -180,9 +177,9 @@ export default function YogaClassesNearJharsaPage() {
 
           <p className="text-text-light leading-relaxed mb-10">
             If you live around Sector 40 or HUDA Market, Gurgaon,
-            you can contact Satvik Yoga to enquire about a home-visit
-            yoga instructor. Availability will depend on the location
-            and the tutor's schedule.
+            contact Satvik Yoga to enquire about a home-visit yoga
+            instructor. Availability depends on your location and
+            the tutor's schedule.
           </p>
 
           {/* Sector 37 */}
@@ -192,9 +189,9 @@ export default function YogaClassesNearJharsaPage() {
 
           <p className="text-text-light leading-relaxed mb-10">
             Residents on the Sector 37 and Hero Honda Chowk side
-            can enquire about home yoga sessions. Please share your
-            exact locality or nearby landmark to confirm whether a
-            visit can be arranged.
+            can enquire about home yoga sessions. Share your exact
+            locality or nearby landmark to confirm whether a visit
+            can be arranged.
           </p>
 
           {/* Sector 32 */}
@@ -204,9 +201,9 @@ export default function YogaClassesNearJharsaPage() {
 
           <p className="text-text-light leading-relaxed mb-10">
             If you are looking for yoga classes near Sector 32 or
-            the Medanta area, you can contact Satvik Yoga about
-            home-visit availability. The actual distance from the
-            tutor's base will need to be checked.
+            the Medanta area, contact Satvik Yoga about home-visit
+            availability. The distance from the tutor's base must
+            be checked before booking.
           </p>
 
           {/* Sector 47 */}
@@ -216,8 +213,8 @@ export default function YogaClassesNearJharsaPage() {
 
           <p className="text-text-light leading-relaxed mb-10">
             Residents near Sector 47 and Subhash Chowk can enquire
-            about home yoga sessions. As this area may be beyond the
-            initial 1–2 km service focus, please confirm availability
+            about home yoga sessions. This area may be beyond the
+            initial 1–2 km service focus, so please confirm availability
             before expecting a home visit.
           </p>
 
@@ -228,8 +225,8 @@ export default function YogaClassesNearJharsaPage() {
 
           <p className="text-text-light leading-relaxed mb-6">
             Satvik Yoga's local enquiries focus on Sector 39 and
-            Jharsa, with requests also welcomed from the following
-            nearby Gurgaon locations:
+            Jharsa, with enquiries also welcomed from these Gurgaon
+            locations:
           </p>
 
           <ul className="text-text-light leading-relaxed mb-10 list-disc pl-6 space-y-2">
@@ -243,8 +240,8 @@ export default function YogaClassesNearJharsaPage() {
 
           <p className="text-text-light leading-relaxed mb-10">
             These are enquiry areas, not a guarantee of coverage
-            within 1–2 km. Please confirm the exact address and
-            available travel distance directly with Satvik Yoga.
+            within 1–2 km. Confirm your exact address and the available
+            travel distance directly with Satvik Yoga.
           </p>
 
           {/* Session Information */}
@@ -272,11 +269,11 @@ export default function YogaClassesNearJharsaPage() {
           </h2>
 
           <p className="text-text-light leading-relaxed mb-6">
-            Satvik Yoga provides information about its yoga programs
-            and helps prospective students enquire about suitable
-            class options. For home visits near Jharsa, sharing your
-            location first helps establish whether the tutor can
-            accommodate your request.
+            Satvik Yoga helps prospective students enquire about
+            available yoga programs and suitable class options.
+            For home visits near Jharsa, sharing your location first
+            helps establish whether the tutor can accommodate
+            your request.
           </p>
 
           <p className="text-text-light leading-relaxed mb-10">
@@ -285,7 +282,7 @@ export default function YogaClassesNearJharsaPage() {
             are subject to confirmation.
           </p>
 
-          {/* FAQs */}
+          {/* FAQ */}
           <h2 className="text-3xl font-bold text-text-dark mb-6">
             Frequently Asked Questions
           </h2>
@@ -304,57 +301,47 @@ export default function YogaClassesNearJharsaPage() {
 
           {/* Internal Links */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
-            Explore Yoga Programs at Satvik Yoga
+            Explore More Yoga Classes in Gurgaon
           </h2>
 
-          <p className="text-text-light leading-relaxed mb-5">
+          <p className="text-text-light leading-relaxed mb-6">
             Explore our existing yoga pages to learn more about
             available programs. Contact us to confirm whether a
             particular program is offered as a home visit.
           </p>
 
-          <ul className="text-text-light leading-relaxed mb-10 list-disc pl-6 space-y-2">
-            <li>
-              <Link
-                href="/hatha-yoga-gurgaon"
-                className="text-green-700 hover:underline"
-              >
-                Hatha Yoga Classes in Gurgaon
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="/therapeutic-yoga-gurgaon"
-                className="text-green-700 hover:underline"
-              >
-                Therapeutic Yoga in Gurgaon
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="/corporate-yoga-gurgaon"
-                className="text-green-700 hover:underline"
-              >
-                Corporate Yoga Classes in Gurgaon
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="/classes"
-                className="text-green-700 hover:underline"
-              >
-                Explore Yoga Classes
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="/contact"
-                className="text-green-700 hover:underline"
-              >
-                Contact Satvik Yoga
-              </Link>
-            </li>
-          </ul>
+          <p className="text-text-light leading-relaxed mb-6">
+            Visit our
+            <a
+              href="/hatha-yoga-gurgaon"
+              className="font-semibold underline ml-1"
+            >
+              Hatha Yoga Classes in Gurgaon
+            </a>
+            {" "}page to learn more about Hatha Yoga.
+          </p>
+
+          <p className="text-text-light leading-relaxed mb-6">
+            You can also explore our
+            <a
+              href="/therapeutic-yoga-gurgaon"
+              className="font-semibold underline ml-1"
+            >
+              Therapeutic Yoga
+            </a>
+            {" "}page for information about this program.
+          </p>
+
+          <p className="text-text-light leading-relaxed mb-10">
+            For general enquiries, visit our
+            <a
+              href="/contact"
+              className="font-semibold underline ml-1"
+            >
+              Contact Satvik Yoga
+            </a>
+            {" "}page.
+          </p>
 
           {/* CTA */}
           <h2 className="text-3xl font-bold text-text-dark mb-4">
