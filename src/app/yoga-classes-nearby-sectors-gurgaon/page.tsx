@@ -122,7 +122,7 @@ export default function NearbySectorsYogaPage() {
           </p>
 
           <a
-            href="https://wa.me/91XXXXXXXXXX?text=Hello%20Satvik%20Yoga%2C%20I%20am%20looking%20for%20home%20yoga%20classes%20in%20Gurgaon."
+            href="https://wa.me/919992725545?text=Hello%20Satvik%20Yoga%2C%20I%20am%20looking%20for%20home%20yoga%20classes%20in%20Gurgaon."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block rounded-full bg-green-700 px-8 py-3 text-white font-semibold hover:bg-green-800 transition"
@@ -350,7 +350,7 @@ export default function NearbySectorsYogaPage() {
           </p>
 
           <a
-            href="https://wa.me/91XXXXXXXXXX?text=Hello%20Satvik%20Yoga%2C%20please%20share%20details%20about%20home%20yoga%20classes%20in%20my%20area."
+            href="https://wa.me/919992725545?text=Hello%20Satvik%20Yoga%2C%20please%20share%20details%20about%20home%20yoga%20classes%20in%20my%20area."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block rounded-full bg-green-700 px-8 py-3 text-white font-semibold hover:bg-green-800 transition"
