@@ -160,7 +160,7 @@ export default function AshtangaYogaGurgaonPage() {
       {/* ── Hero ── */}
       <section className="pt-20 pb-16 md:pt-28 md:pb-24 bg-text-dark relative overflow-hidden">
         <Image
-          src="public/ashtanga-yoga-gurgaon-hero.webp"
+          src="../public/ashtanga-yoga-gurgaon-hero.webp"
           alt="Ashtanga Yoga practice at sunrise in Gurgaon"
           fill
           priority
