@@ -198,7 +198,7 @@ export default function AshtangaYogaGurgaonPage() {
             <WhatsAppButton
               size="lg"
               message="Hi, I am interested in Ashtanga Yoga classes in Gurgaon. Can you share the class details?"
-              className="bg-accent text-text-dark hover:bg-white hover:text-accent border-none mx-auto shadow-lg shadow-accent/20"
+              className="bg-accent text-text-dark hover:bg-white hover:text-accent border-none mx-auto shadow-lg shadow-accent/20 !mx-0 !w-auto"
             >
               Enquire on WhatsApp
             </WhatsAppButton>
