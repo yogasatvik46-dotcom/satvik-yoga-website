@@ -93,6 +93,7 @@ export const classes: YogaClass[] = [
   {
     id: "ashtanga-yoga",
     title: "Ashtanga Yoga",
+    href: "/ashtanga-yoga-gurgaon",
     description:
       "A dynamic, physically demanding practice synchronising breath with a progressive series of postures for internal purification and strength.",
     image: "https://res.cloudinary.com/dhqqj1ehx/image/upload/v1782816969/9077ba93-f8d2-4201-9edb-e104fdd37fd2.png",
