@@ -160,7 +160,7 @@ export default function AshtangaYogaGurgaonPage() {
       {/* ── Hero ── */}
       <section className="pt-20 pb-16 md:pt-28 md:pb-24 bg-text-dark relative overflow-hidden">
         <Image
-          src="../public/ashtanga-yoga-gurgaon-hero.webp"
+          src="/ashtanga-yoga-gurgaon-hero.webp"
           alt="Ashtanga Yoga practice at sunrise in Gurgaon"
           fill
           priority
@@ -215,7 +215,7 @@ export default function AshtangaYogaGurgaonPage() {
               <div className="absolute inset-0 bg-accent/20 rounded-[3rem] translate-x-4 translate-y-4 -z-10" />
               <div className="relative aspect-[4/3] md:aspect-[16/9] rounded-[3rem] overflow-hidden shadow-2xl border-4 border-white">
                 <Image
-                  src="public/ashtanga-yoga-class-gurgaon.webp"
+                  src="/ashtanga-yoga-class-gurgaon.webp"
                   alt="Ashtanga Yoga class in Gurgaon with students practicing on yoga mats"
                   fill
                   sizes="(min-width: 1152px) 1152px, 100vw"
