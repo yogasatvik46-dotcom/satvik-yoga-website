@@ -3,6 +3,7 @@ import type { ReactNode } from "react";
 import Image from "next/image";
 import AnimateOnScroll from "@/components/AnimateOnScroll";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import Link from "next/link";
 import {
   Dumbbell,
   StretchHorizontal,
@@ -186,6 +187,12 @@ export default function AshtangaYogaGurgaonPage() {
               regular practice, appropriate guidance can help you develop your
               practice progressively.
             </p>
+            <Link
+               href="/classes"
+               className="inline-flex items-center justify-center px-8 py-4 rounded-full text-lg font-semibold bg-transparent border-2 border-white text-white hover:bg-white hover:text-primary transition-colors"
+             >
+                Get Classes Detail
+            </Link>
             <WhatsAppButton
               size="lg"
               message="Hi, I am interested in Ashtanga Yoga classes in Gurgaon. Can you share the class details?"
