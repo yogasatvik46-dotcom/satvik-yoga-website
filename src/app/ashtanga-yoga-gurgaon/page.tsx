@@ -188,12 +188,13 @@ export default function AshtangaYogaGurgaonPage() {
               practice progressively.
             </p>
            
-            <Link
-               href="/classes"
-               className="bg-accent hover:text-accent text-text-dark hover:bg-white border-none"
-             >
-                Get Our Classes Detail
-            </Link>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+  <Link
+    href="/classes"
+    className="inline-flex items-center justify-center px-8 py-4 rounded-full text-lg font-semibold bg-transparent border-2 border-white text-white hover:bg-white hover:text-primary transition-colors"
+  >
+    Get Our Classes Detail
+  </Link>
             <WhatsAppButton
               size="lg"
               message="Hi, I am interested in Ashtanga Yoga classes in Gurgaon. Can you share the class details?"
@@ -201,7 +202,7 @@ export default function AshtangaYogaGurgaonPage() {
             >
               Enquire on WhatsApp
             </WhatsAppButton>
-           
+            </div>
           </AnimateOnScroll>
         </div>
       </section>
