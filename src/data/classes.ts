@@ -3,6 +3,7 @@ export interface YogaClass {
   title: string;
   description: string;
   image: string;
+  href?: string;
 }
 
 export const classes: YogaClass[] = [
