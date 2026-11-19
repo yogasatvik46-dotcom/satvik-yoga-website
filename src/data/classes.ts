@@ -87,6 +87,7 @@ export const classes: YogaClass[] = [
   {
     id: "hatha-yoga",
     title: "Hatha Yoga",
+    href: "/hatha-yoga-gurgaon",
     description:
       "The classical foundation of all yoga — holding poses with focused breath to build strength, flexibility, and deep inner calm at your own pace.",
     image: "https://res.cloudinary.com/dhqqj1ehx/image/upload/v1782816959/d31d34f1-3d18-42df-99fa-2c29e88eb44b.png",
