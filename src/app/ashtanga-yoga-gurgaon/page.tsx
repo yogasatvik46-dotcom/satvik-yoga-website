@@ -189,7 +189,8 @@ export default function AshtangaYogaGurgaonPage() {
             </p>
             <Link
                href="/classes"
-               className="inline-flex items-center justify-center px-8 py-4 rounded-full text-lg font-semibold bg-transparent border-2 border-white text-white hover:bg-white hover:text-primary transition-colors"
+               size="lg"
+               className="bg-accent text-text-dark hover:bg-white hover:text-accent border-none mx-auto shadow-lg shadow-accent/20"
              >
                 Get Classes Detail
             </Link>
