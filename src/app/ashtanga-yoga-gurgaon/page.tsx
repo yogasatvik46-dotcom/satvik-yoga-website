@@ -190,8 +190,7 @@ export default function AshtangaYogaGurgaonPage() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
                href="/classes"
-               
-               className="bg-accent text-text-dark hover:bg-white hover:text-accent border-none mx-auto shadow-lg shadow-accent/20"
+               className="bg-accent hover:text-accent text-text-dark hover:bg-white border-none"
              >
                 Get Our Classes Detail
             </Link>
