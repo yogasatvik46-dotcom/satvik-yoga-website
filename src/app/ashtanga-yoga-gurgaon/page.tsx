@@ -187,7 +187,7 @@ export default function AshtangaYogaGurgaonPage() {
               regular practice, appropriate guidance can help you develop your
               practice progressively.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+           
             <Link
                href="/classes"
                className="bg-accent hover:text-accent text-text-dark hover:bg-white border-none"
@@ -201,7 +201,7 @@ export default function AshtangaYogaGurgaonPage() {
             >
               Enquire on WhatsApp
             </WhatsAppButton>
-            </div>
+           
           </AnimateOnScroll>
         </div>
       </section>
