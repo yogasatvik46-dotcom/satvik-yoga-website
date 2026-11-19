@@ -189,7 +189,7 @@ export default function AshtangaYogaGurgaonPage() {
             </p>
             <Link
                href="/classes"
-               size="lg"
+               
                className="bg-accent text-text-dark hover:bg-white hover:text-accent border-none mx-auto shadow-lg shadow-accent/20"
              >
                 Get Classes Detail
