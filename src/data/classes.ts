@@ -10,6 +10,7 @@ export const classes: YogaClass[] = [
   {
     id: "knee-pain-yoga",
     title: "Knee Pain Yoga",
+    href: "/therapeutic-yoga-gurgaon",
     description:
       "Targeted therapeutic yoga to strengthen the muscles around the knee, improve joint mobility, and reduce chronic knee pain naturally.",
     image: "https://res.cloudinary.com/dhqqj1ehx/image/upload/v1782815043/db7ad33f-8ffb-468d-b895-d3d4c0cbca6d.png",
@@ -110,6 +111,7 @@ export const classes: YogaClass[] = [
   {
     id: "pcod-pcos-yoga",
     title: "PCOD / PCOS Yoga",
+    href: "/pcod-pcos-yoga-classes",
     description:
       "Hormone-balancing yoga and breathwork specifically designed to manage PCOD/PCOS symptoms, regulate cycles, and support reproductive health.",
     image: "https://res.cloudinary.com/dhqqj1ehx/image/upload/v1782818174/864ca84f-1bb2-4a90-89a2-9a466e01898d.png",
@@ -124,6 +126,7 @@ export const classes: YogaClass[] = [
   {
     id: "weight-loss-yoga",
     title: "Weight Loss Yoga",
+    href: "/weight-loss-flexibility-yoga-gurgaon",
     description:
       "Metabolism-boosting yoga sequences combining dynamic flows, core engagement, and mindful eating awareness for sustainable weight management.",
     image: "https://res.cloudinary.com/dhqqj1ehx/image/upload/v1782817418/87efcd22-29a4-4747-bf88-c953740227d5.png",
@@ -138,6 +141,7 @@ export const classes: YogaClass[] = [
   {
     id: "meditation",
     title: "Meditation",
+    href: "/meditation-pranayama-gurgaon",
     description:
       "Guided meditation sessions to cultivate deep awareness, mental clarity, emotional balance, and a lasting sense of inner stillness.",
     image: "https://res.cloudinary.com/dhqqj1ehx/image/upload/v1782817461/d13a8c2c-07ea-4240-8311-fc4c689b4a42.png",
