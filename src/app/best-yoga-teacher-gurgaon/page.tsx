@@ -161,7 +161,7 @@ const styles = [
     icon: Briefcase,
     title: "Corporate Yoga",
     text: "Yoga programs for teams and workplaces.",
-    href: "/corporate-yoga-gurgaon",
+    href: "/corporate",
   },
   {
     icon: Laptop,
@@ -713,7 +713,7 @@ export default function FamousYogaTeacherGurgaonPage() {
                   If you want yoga for your team or workplace, you can explore
                   our
                   <a
-                    href="/corporate-yoga-gurgaon"
+                    href="/corporate"
                     className={`${linkClass} ml-1`}
                   >
                     Corporate Yoga Classes in Gurgaon
